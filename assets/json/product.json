@@ -1,0 +1,37 @@
+[
+    {
+        "productName":"Xiaomi Redmi Note 9 Pro 8/128",
+        "category":"Handphone",
+        "price":"3.999.000",
+        "image-small":"xiaomi-readmi-note-9pro-8-128.jpg",
+        "favorite":false
+    },
+    {
+        "productName":"Face shield, Kacamata face shield",
+        "category":"Face Shield",
+        "price":"35.000",
+        "image-small":"face-shield-kacamata.jpg",
+        "favorite":false
+    },
+    {
+        "productName":"Tongkat E-TOLL Tongkat GTO Emoney",
+        "category":"Aksesoris",
+        "price":"15000",
+        "image-small":"tongkat-etol-emoney.jpg",
+        "favorite":false
+    },
+    {
+        "productName":"iPhone 11 Pro Max 256GB",
+        "category":"Handphone",
+        "price":"19.999.000",
+        "image-small":"iphone-11-promax-256gb.jpeg",
+        "favorite":true
+    },
+    {
+        "productName":"Aukey Charger 2 Port 12W with AiQ",
+        "category":"Aksesoris",
+        "price":"174.000",
+        "image-small":"aukey-charger2-port-12w.jpeg",
+        "favorite":false
+    }
+]

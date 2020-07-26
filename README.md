@@ -1,16 +1,14 @@
-# flutter_json_bloc
+# Flutter Json Bloc
 
-A new Flutter project.
+Parsing json pada flutter menggunakan bloc patern
 
-## Getting Started
+## Kebutuhan
 
-This project is a starting point for a Flutter application.
+Kebutuhan yang digunakan bisa download di https://pub.dev/packages/
 
-A few resources to get you started if this is your first Flutter project:
+Beberapa kebutuhan yang saya gunakan:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [equatable 1.2.3](https://pub.dev/packages/equatable)
+- [flutter_bloc 6.0.1](https://pub.dev/packages/flutter_bloc)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ada yang mau ditanyakan bisa di [LinkedIn[(https://id.linkedin.com/in/adhithia)
